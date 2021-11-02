@@ -6,7 +6,7 @@ toc_label: "Muc luc"
 toc_icon: "cog"
 toc_sticky: false
 
-categories: "MyLife"
+categories: "Mylife"
 tags: "first"
 
 header:

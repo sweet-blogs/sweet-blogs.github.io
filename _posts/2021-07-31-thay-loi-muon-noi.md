@@ -1,6 +1,6 @@
 ---
 title: "Thay lời muốn nói - gửi tới những người thân yêu của lập trình viên ❤️❤️"
-categories: "MyLife"
+categories: "Mylife"
 header:
     teaser: /assets/images/teaser/2021-07-31.jpeg
 author_profile: true

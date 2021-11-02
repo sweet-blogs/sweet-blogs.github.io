@@ -1,6 +1,6 @@
 ---
 title: "Lan man tâm sự một ngày cuối tuần"
-categories: "MyLife"
+categories: "Mylife"
 header:
     teaser: /assets/images/teaser/2021-10-24.jpeg
 author_profile: true
@@ -51,6 +51,3 @@ Bạn hãy cứ là chính mình, không phải cố gắng để giống hay l�
 Sau khi chia sẻ những điều trên, mình mong ai đọc được bài này và đang phải làm việc cả ngày hôm nay thì hãy tạm nghỉ tay, gác công việc lại, và có thể làm những điều gọi là tự thưởng cho bản thân sau một tuần làm việc vất vả. Các bạn có thể rủ bạn bè đi cafe, đi lượn hồ Tây hay là đi tụ tập ăn uống, tán gẫu. Mình sinh ra, làm việc, cố gắng từng ngày là để có một cuộc sống hạnh phúc chứ không phải là để quanh năm suốt tháng vùi đầu trong công việc. Việc giữ sức khỏe bản thân cũng là một điều vô cùng quan trọng. Mấy ông coder đọc xong mà lười tập thể dục thì hãy gấp máy lại, đi chạy bộ, nhảy dây, đạp xe đi, bug không fix hôm nay thì để ngày mai, dù các ông có fix hết bug này thì cũng sẽ có bug mới thôi 🤣🤣.
 
 Mọi chia sẻ ở trên đều là quan điểm cá nhân của mình, vì vậy nên sẽ không thể có cùng quan điểm với một số người, tuy nhiên điều minh mong muốn là mọi người đều sẽ có một cuộc sống vui vẻ, hạnh phúc hơn mỗi ngày. Vì không còn rảnh như lúc nghỉ hè nên mình không thể ra bài thường xuyên được, mình sẽ đặt KPI là một tháng một bài. Mình mong mọi người sẽ tiếp tục đồng hành cùng mình và ủng hộ mình nhaa 🥰🥰.
-
-
-

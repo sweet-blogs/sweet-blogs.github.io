@@ -1,6 +1,6 @@
 ---
 title: "Mình đã bắt đầu tại Bách Khoa như thế nào"
-categories: "MyLife"
+categories: "Mylife"
 header:
     teaser: /assets/images/teaser/2021-07-04.jpeg
 author_profile: true
