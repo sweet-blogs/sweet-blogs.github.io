@@ -16,7 +16,7 @@ description              : "The work of a programmer is to change the world, mak
 url                      : "sweet-blogs.github.io"
 baseurl                  : ""
 repository               : "sweet-blogs/sweet-blogs.github.io"
-teaser                   : "/assets/images/logo.jpg"
+teaser                   : "/assets/images/logo.jpeg"
 logo                     : # "/assets/images/logo.jpeg"
 masthead_title           : "An Do"
 
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "An Do"
-  avatar           : "/assets/images/bio-photo.jpeg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am a Computer Science student from Viet Nam"
   location         : "Ha Noi, Viet Nam"
   email            : "andoDsAI@gmail.com"
