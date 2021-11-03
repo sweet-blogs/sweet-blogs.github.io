@@ -16,9 +16,9 @@ description              : "The work of a programmer is to change the world, mak
 url                      : "sweet-blogs.github.io"
 baseurl                  : ""
 repository               : "sweet-blogs/sweet-blogs.github.io"
-teaser                   : "/assets/images/logo.jpeg"
+teaser                   : "/assets/images/logo.jpg"
 logo                     : # "/assets/images/logo.jpeg"
-masthead_title           : "An Do's Blog"
+masthead_title           : "An Do"
 
 breadcrumbs              : false  # disabled by default
 
